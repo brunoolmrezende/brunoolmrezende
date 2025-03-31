@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="left">Hey 👋 Tudo certo?</h1>
 
-<!--
-**brunoolmrezende/brunoolmrezende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Meu nome é Bruno e sou Desenvolvedor .NET.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">✨ Criando bugs desde 2023, quando comecei a programar.<br><br>📚 Atualmente, estou aprendendo na prática, desenvolvendo projetos e explorando mensageria com Azure Service Bus, autenticação com JWT, técnicas de criptografia e CI/CD com Azure DevOps. Também estou mergulhando em deploys no Azure e testando diversos pacotes NuGet para aprimorar meus projetos.<br><br>🎯 Objetivos: Consolidar minha transição para o desenvolvimento backend, criar projetos que combinem boas práticas de segurança e escalabilidade, e interagir com profissionais da área para trocar experiências e acelerar meu aprendizado.<br><br>🎲 Curiosidade: Antes de migrar para tecnologia, trabalhei com inovação, ajudando empresas a estruturar programas estratégicos para transformar ideias em resultados reais. Agora, quero fazer isso escrevendo código!</p>
+
+###
+
+<h2 align="left">Tecnologias que uso</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+</div>
+
+###
+
